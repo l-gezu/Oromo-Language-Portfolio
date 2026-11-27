@@ -20,26 +20,25 @@ My Portfolio Projects
 1. Afaan Oromoo Writing Sample
 
 A sample of Afaan Oromoo writing.
+[View Writing Sample](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/Writing%20-samples/sample-01.md)
 
-[View Writing Sample](writing-samples/sample-01.md)
 
 2. AI Response Evaluation
 
 A practice example of evaluating AI-generated Afaan Oromoo responses.
 
-[View AI Evaluation](AI-evaluation/sample-01.md)
+[View AI Evaluation](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/AI-evaluation/sample-01.md)
 
 
 3. Afaan Oromoo Questions and Answers
 
 Questions and answers about agriculture and farming.
 
-[View Questions and Answers](question-answers/sample-01.md)
-
+[View Questions and Answers](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/question-answers/sample-01.md)
 
 4. My CV
 
-[View My CV](CV.md)
+[View My CV](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/CV.md)
 
 My Goal
 
