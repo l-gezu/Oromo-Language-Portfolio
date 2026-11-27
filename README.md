@@ -27,14 +27,14 @@ A sample of Afaan Oromoo writing.
 
 A practice example of evaluating AI-generated Afaan Oromoo responses.
 
-[View AI Evaluation](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/AI-evaluation/sample-01.md)
+[View Proofreading Sample](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/proofreding/sample-01.md)
 
 
 3. Afaan Oromoo Questions and Answers
 
 Questions and answers about agriculture and farming.
 
-[View Questions and Answers](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/question-answers/sample-01.md)
+[View Questions and Answers](https://github.com/l-gezu/Oromo-Language-Portfolio/blob/main/question-answer/sample-01.md)
 
 4. My CV
 
